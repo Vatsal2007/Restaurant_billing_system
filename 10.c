@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-struct menu {    
+struct menu{    
     char itemname[50];
     float price;
     char category[20];
